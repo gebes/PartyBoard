@@ -12,4 +12,4 @@ You can also export this small program for your platform
 ![](https://i.imgur.com/SumihOU.png)
 
 ## License
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE) file for details
