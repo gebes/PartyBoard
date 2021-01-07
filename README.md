@@ -1,10 +1,11 @@
-PartyBoard - Enjoy painting like Bob Ross
+# PartyBoard
+Enjoy painting like Bob Ross.
 ===
-You have a white Canvas, your target is to make it colorful!
+You have a white Canvas; your target is to make it colourful!
 
 ## Getting Started
 Clone this repo and open it with Processing 3.0  
-You can also export this small program for your platform
+You can also export this small program for your platform.
 
 
 ## Example
